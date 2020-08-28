@@ -20,5 +20,9 @@ This [dataset](https://www.kaggle.com/andrewmvd/data-analyst-jobs) was created b
  > Do larger or older companies pay more? We find out!
 - How much better do senior-level jobs pay?
 
+## Tools and Skills Used
+- Tools: pandas, matplotlib, seaborn
+- Skills: wrangling data, creation of useful new columns from existing ones
+
 ## Read the analysis
 Check out the notebook [here](https://github.com/wlteo/exploratory-data-analysis-data-analyst-jobs/blob/master/exploratory-data-analysis-data-analyst-jobs.ipynb)!
