@@ -19,3 +19,5 @@ This [dataset](https://www.kaggle.com/andrewmvd/data-analyst-jobs) was created b
 - Effect of Company Size/Age on salaries
  > Do larger or older companies pay more? We find out!
 - How much better do senior-level jobs pay?
+
+Check out the notebook [here](https://github.com/wlteo/exploratory-data-analysis-data-analyst-jobs/blob/master/exploratory-data-analysis-data-analyst-jobs.ipynb)!
